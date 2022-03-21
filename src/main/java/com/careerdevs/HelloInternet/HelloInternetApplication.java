@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloInternetApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloInternetApplication.class, args);
-	}
+		SpringApplication.run(HelloInternetApplication.class, args);}
 
 }
